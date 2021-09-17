@@ -1,0 +1,11 @@
+td{
+    padding: 45px;
+    text-align:center ;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+th{
+    
+    border-bottom: 1px solid black;
+    /* border-right: 1px solid black; */
+}
